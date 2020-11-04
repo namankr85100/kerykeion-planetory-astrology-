@@ -59,10 +59,10 @@ Soon available.
 
 
 ## Installation
-pip install kerykerion
-python setup.py install
-create a main.py and put in it the above code
-python main.py
+pip install kerykerion--
+python setup.py install--
+create a main.py and put in it the above code--
+python main.py--
 Kerykeion is a Python 3 package, make sure you have Python 3 installed on your system. 
 
 
