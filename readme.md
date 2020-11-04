@@ -59,6 +59,8 @@ Soon available.
 
 
 ## Installation
+git clone repo--
+cd repo--
 pip install kerykerion--
 python setup.py install--
 create a main.py and put in it the above code--
